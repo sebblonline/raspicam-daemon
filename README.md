@@ -29,13 +29,14 @@ make
 
 ## Related projects
 
-- raspicam-control-qt
+- [raspicam-control-qt](https://github.com/sebblonline/raspicam-control-qt)
 
 ## Future plans
 
 * Add RaspiCam project as git submodule
 * Add description and scripts to install application as a service
 * Add interface to receive configuration settings
+* ...
 
 
 ## Authors
